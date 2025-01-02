@@ -1,0 +1,28 @@
+.parent{
+  width: 200px;
+  height: 250px;
+  background-color:aquamarine;
+  position: relative;
+  border: 5px solid black;
+  border-radius: 5px;
+  left:50px;
+  top:50px;
+}
+
+.image{
+height:110px;
+width:200px;
+}
+.fix{
+  height:20px;
+  width:70px;
+  font-size:large;
+  background-color: lightgreen;
+    color: black;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    bottom:100px;
+    border-radius: 5px;
+
+}
